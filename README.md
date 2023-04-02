@@ -1,2 +1,6 @@
+# Femme Succour
 # Women-Techies-WECode
 Our project for Women Techies WECode for Women Empowerment in Workspace.
+<b>Misogynistic or sexist comment Detector in office meetings and text conversations:</b>
+We plan to build an AI /ML solution that can identify toxic and sexist language in online meetings and text messages used in daily work conversation in workspace and alert the sender. They can choose to transmit it or not at that point, but keep in mind that messages that are flagged as at least 60% sexist or 80% poisonous will be forwarded to the administrator via the communication channel. It can be used directly on our website or as an extension and bot that is incorporated into Chrome/Discord. The implications of toxic behaviour are much more severe in a professional setting, which online meeting sites, Discord, Slack etc. is increasingly being used as—especially for new firms. Each employee will have a profile that keeps track of any messages that are reported as sexist or harmful.
+Our web app will detect misogynistic/sexist/toxic comments in real-time during office meetings  and conversations using natural language processing and machine learning. It helps HR managers quickly respond to problems and improve workplace inclusivity. It also provides data on hate speech incidents over time to identify issues with workplace culture.
