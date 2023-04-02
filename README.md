@@ -15,7 +15,7 @@ Our web app will detect misogynistic/sexist/toxic comments in real-time during o
 <br>
 We plan to develop a maternity leave estimator tool for HR departments that uses natural language processing (NLP) to analyze the proof of  complications uploaded by employees. The tool will be able to predict the duration of maternity leave required for each employee, enabling HR to plan and prepare for the leave in advance. This will help support employees who may need additional time off due to complications during pregnancy or after giving birth. The tool will need to have strong privacy and security measures in place to protect employee data and ensure that only authorized personnel can access it.
 <br>
-<img width="314" alt="image" src="https://user-images.githubusercontent.com/80983161/229366292-7370621f-dd0f-4fe8-ac2e-14005773fede.png">
+<img width="650" height ="350" alt="image" src="https://user-images.githubusercontent.com/80983161/229366292-7370621f-dd0f-4fe8-ac2e-14005773fede.png">
 <br>
 
 
